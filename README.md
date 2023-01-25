@@ -18,6 +18,20 @@ type `make clean` in the file directory to
 
 • clean all compiled files and recompile them using make
 
+
+run consumer first using command
+```bash
+./consumer sizeofbuffer
+
+//in another terminal
+./producer commodityname priceMean priceStdDiv sleepInterval sizeofbuffer
+
+```
+
+• sizeofbuffer in both need to be equal
+
+commodities are limited to GOLD, SILVER, CRUDEOIL, NATURALGAS, ALUMINIUM,COPPER, NICKEL, LEAD, ZINC, MENTHAOIL, and COTTON.
+
 ## Demonstration
 
 
