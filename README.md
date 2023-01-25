@@ -20,10 +20,12 @@ type `make clean` in the file directory to
 
 
 run consumer first using command
-```bash
 ./consumer sizeofbuffer
+```
 
-//in another terminal
+in another terminal
+
+```bash
 ./producer commodityname priceMean priceStdDiv sleepInterval sizeofbuffer
 
 ```
