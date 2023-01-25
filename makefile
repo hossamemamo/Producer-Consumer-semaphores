@@ -1,4 +1,4 @@
-biuld:
+build:
 	ipcrm -a
 	g++ consumer.cpp -o c
 	g++ producer.cpp -o p
