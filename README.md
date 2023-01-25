@@ -20,6 +20,7 @@ type `make clean` in the file directory to
 
 
 run consumer first using command
+```bash
 ./consumer sizeofbuffer
 ```
 
