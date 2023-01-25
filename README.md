@@ -37,6 +37,7 @@ commodities are limited to GOLD, SILVER, CRUDEOIL, NATURALGAS, ALUMINIUM,COPPER,
 
 ## Demonstration
 
+[Screencast from 25 ينا, 2023 EET 11:10:25 م.webm](https://user-images.githubusercontent.com/78453559/214692536-d14d6a23-1c84-4709-bab7-379723f86a75.webm)
 
 ## Contributing
 
